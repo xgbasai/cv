@@ -1,2 +1,15 @@
 h1
 { color: darkcyan;}
+
+nav
+{
+    width: 25%;
+}
+article
+{
+    width: 50%;
+}
+aside
+{
+    width: 25%;
+}
