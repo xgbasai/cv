@@ -1,5 +1,17 @@
+body
+{
+    background-color: black;
+}
+p
+{color: #914947;}
+
+ul
+{color: #914947;}
+
 h1
-{ color: darkcyan;}
+{ color: #B68EDE;}
+h3
+{ color: #914947; }
 
 header
 {
@@ -17,7 +29,10 @@ nav
     left: 0px;
 	border: 1px solid black;
 	background-color: #9EDE84;
+    border-radius: 5px;
+
 }
+
 
 article
 {
@@ -27,6 +42,7 @@ article
     vertical-align: top;
     position: absolute;
     left: 25%;
+
     
 }
 
@@ -40,6 +56,7 @@ aside
     right: 0px;
 	border: 1px solid black;
 	background-color: #9EDE84;
+    border-radius: 5px;
 }
 
 h2 
@@ -47,5 +64,7 @@ h2
 		border: 1px solid black;
 		background-color: #9EDE84;
 		text-align: center;
+        color: #B68EDE;
+        border-radius: 10px;
 		
 }
